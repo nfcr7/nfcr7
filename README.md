@@ -5,8 +5,8 @@
 <h1 align="center">Let's Connect on LinkedIn!</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/youssef-nafae/" target="_blank">
-    <img height="60" src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/youssef-nafae/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
 </p>
 
